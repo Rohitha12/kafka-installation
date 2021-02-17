@@ -1,4 +1,4 @@
-# kafka-installation
+# kafka-commands
 Open KAFKA_HOME folder with version such as C:\kafka_2.13-2.7.0.
 
 Use a another PowerShell as Administrator window for each process.  
